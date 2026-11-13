@@ -1,0 +1,4 @@
+newmtl CoinGold
+Kd 1 1 1
+Ka 1 1 1
+map_Kd coin_albedo.png

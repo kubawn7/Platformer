@@ -1,0 +1,3 @@
+newmtl PadBody
+Kd 1 1 1
+map_Kd hover_palette.png
